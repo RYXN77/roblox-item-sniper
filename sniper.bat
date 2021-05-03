@@ -1,2 +1,2 @@
 python sniper/sniper.py
-pause
+start
